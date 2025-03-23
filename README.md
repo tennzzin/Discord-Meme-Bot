@@ -53,4 +53,4 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
 
 ## Author
 
-**Tenzin Chonyi** – [LinkedIn]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/tenzin-chonyi))
+**Tenzin Chonyi** – [LinkedIn](http://www.linkedin.com/in/tenzin-chonyi)
