@@ -19,9 +19,11 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
 
       `DISCORD_BOT_TOKEN=your_bot_token_here`
 3. Install Dependecies:
-   - `pip install discord.py python-dotenv requests`
+
+      `pip install discord.py python-dotenv requests`
 4. Run the Bot:
-   - `python bot.py`
+   
+      `python bot.py`
 5. Test It:
    - Go to your Discord server and type:
     
