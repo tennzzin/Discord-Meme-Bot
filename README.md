@@ -4,13 +4,13 @@
 
 The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and sends random memes to a Discord channel using the Meme API. Built using the `discord.py` library, this bot responds to a custom command and serves as a great starter project for learning how to work with APIs, bots, and environment variables.
 
-**Features**
+## Features
 - **Random Meme Command**: Type `$meme` in any channel where the bot is present to receive a fresh meme from Reddit.
 - **API Integration**: Connects to [meme-api.com](https://meme-api.com/) to fetch meme content in real-time.
 - **Secure Token Handling**: Uses `.env` files and environment variables to protect your bot token.
 - **Basic Event Handling**: Handles `on_ready()` and `on_message()` events using `discord.Client`.
 
-**How to Use**
+## How to Use
 1. Clone the Repository:
    - `git clone https://github.com/yourusername/discord-meme-bot.git`
    - `cd discord-meme-bot`
@@ -30,7 +30,7 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
       `$meme`
    - The bot should reply with a meme image URL!
 
-**Technology Stack**
+## Technology Stack
 - **Lanuage**: Python
 - **Libraries**:
   - `discord.py` – for interacting with the Discord API
