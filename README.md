@@ -12,19 +12,18 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
 
 **How to Use**
 1. **Clone the Repository**:
-   
    - `git clone https://github.com/yourusername/discord-meme-bot.git`
    - `cd discord-meme-bot`
 2. **Set Up Environment**:
    - Create a .env file in the root directory:
-   `DISCORD_BOT_TOKEN=your_bot_token_here`
+   - `DISCORD_BOT_TOKEN=your_bot_token_here`
 3. **Install Dependecies**
-   `pip install discord.py python-dotenv requests`
+   - `pip install discord.py python-dotenv requests`
 4. **Run the Bot**
-   `python bot.py`
+   - `python bot.py`
 5. **Test It**
    - Go to your Discord server and type:
-   `$meme`
+   - `$meme`
    - The bot should reply with a meme image URL!
 
 **Technology Stack**
