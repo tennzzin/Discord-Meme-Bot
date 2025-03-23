@@ -1,6 +1,6 @@
 # Discord Meme Bot 🤖
 
-**Overview**
+## Overview
 
 The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and sends random memes to a Discord channel using the Meme API. Built using the `discord.py` library, this bot responds to a custom command and serves as a great starter project for learning how to work with APIs, bots, and environment variables.
 
@@ -20,10 +20,10 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
       `DISCORD_BOT_TOKEN=your_bot_token_here`
 3. Install Dependecies:
 
-      `pip install discord.py python-dotenv requests`
+   - `pip install discord.py python-dotenv requests`
 4. Run the Bot:
    
-      `python bot.py`
+   - `python bot.py`
 5. Test It:
    - Go to your Discord server and type:
     
