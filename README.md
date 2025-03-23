@@ -40,6 +40,7 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
 ## Skills Demonstrated
 
 - **API Consumption**
+
   Integrated a third-party meme API using HTTP requests.
 
 - **Bot Development**  
