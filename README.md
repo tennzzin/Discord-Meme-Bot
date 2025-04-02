@@ -15,9 +15,9 @@ The Discord Meme Bot is a simple, beginner-friendly Python bot that fetches and 
    - `git clone https://github.com/yourusername/discord-meme-bot.git`
    - `cd discord-meme-bot`
 2. Set Up Virtual Environment:
-   # Create a virtual environment
+   - Create a virtual environment
    - `python3 -m venv venv` 
-   # Activate the virtual environment
+   - Activate the virtual environment
    `source venv/bin/activate`  # On Mac/Linux
 3. Install Dependecies:  
    - `pip install discord.py python-dotenv requests`
