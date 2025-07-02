@@ -13,7 +13,7 @@ The MemeBot is a simple, beginner-friendly Python bot that fetches and sends ran
 ## How to Use
 1. Clone the Repository:
    - `git clone https://github.com/yourusername/MemeBot.git`
-   - `cd discord-meme-bot`
+   - `cd MemeBot`
 2. Set Up Virtual Environment:
    - Create a virtual environment
    - `python3 -m venv venv` 
